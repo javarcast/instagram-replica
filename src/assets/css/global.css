@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+  color: rgba(38,38,38,1);
+  text-overflow: ellipsis;
+  margin: 0;
+  margin-bottom: 210px;
+}
+p {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+*:focus {
+  outline: none;
+}
